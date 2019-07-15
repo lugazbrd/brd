@@ -1,0 +1,9 @@
+apt update && upgrade
+Pkg install python
+pkg install git
+Pkg install php
+Pip2 install lolcat
+Pkg install
+ruby Gem install lolcat
+
+Git clone 
